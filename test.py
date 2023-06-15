@@ -38,3 +38,5 @@ def chat_bot():
             print("Ну и что")
 
 chat_bot()
+
+print("Geeks")
